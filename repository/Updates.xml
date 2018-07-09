@@ -13,12 +13,12 @@
   <Essential>true</Essential>
   <Script>installscript.qs</Script>
   <RequiresAdminRights>true</RequiresAdminRights>
-  <UpdateFile CompressedSize="5271222" OS="Any" UncompressedSize="17352937"/>
+  <UpdateFile UncompressedSize="17352937" CompressedSize="5271222" OS="Any"/>
   <DownloadableArchives>data.7z,content.7z</DownloadableArchives>
   <Licenses>
-   <License name="License Agreement" file="License.txt"/>
+   <License file="License.txt" name="License Agreement"/>
   </Licenses>
-  <SHA1>e2a80ded689464358cf7cb4dd09fdd383c9548e9</SHA1>
+  <SHA1>4ff4c3a3244247553ca0de7a738983e50681ec00</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>org.vdg.cs8Tools.cs8Backup</Name>
@@ -28,12 +28,12 @@
   <ReleaseDate>2018-07-09</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="357277" OS="Any" UncompressedSize="1303679"/>
+  <UpdateFile UncompressedSize="1303679" CompressedSize="357277" OS="Any"/>
   <DownloadableArchives>data.z7,content.7z</DownloadableArchives>
   <Licenses>
-   <License name="License Agreement" file="License.txt"/>
+   <License file="License.txt" name="License Agreement"/>
   </Licenses>
-  <SHA1>51dd83e27e207a8c725090dd6a3021e27bbd0c90</SHA1>
+  <SHA1>cf0dca3a21d1d36f3f5246b2da77460b5d8d94d7</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>org.vdg.cs8Tools.cs8LogViewer</Name>
@@ -43,8 +43,8 @@
   <ReleaseDate>2018-07-09</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile CompressedSize="1329707" OS="Any" UncompressedSize="2141119"/>
+  <UpdateFile UncompressedSize="2141119" CompressedSize="1329707" OS="Any"/>
   <DownloadableArchives>data.z7</DownloadableArchives>
-  <SHA1>7f5d9a92af35187fb9d0df0847d6f1a831990943</SHA1>
+  <SHA1>69f2c745ac12e59a04c20f021e594a84686f9b83</SHA1>
  </PackageUpdate>
 </Updates>
