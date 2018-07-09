@@ -1,0 +1,50 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>org.vdg.cs8Tools</Name>
+  <DisplayName>Base Components</DisplayName>
+  <Description>Mandatory files</Description>
+  <Version>5.7.1</Version>
+  <ReleaseDate>2018-01-24</ReleaseDate>
+  <Default>true</Default>
+  <ForcedInstallation>true</ForcedInstallation>
+  <Essential>true</Essential>
+  <Script>installscript.qs</Script>
+  <RequiresAdminRights>true</RequiresAdminRights>
+  <UpdateFile CompressedSize="5271222" OS="Any" UncompressedSize="17352937"/>
+  <DownloadableArchives>data.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="License Agreement" file="License.txt"/>
+  </Licenses>
+  <SHA1>e2a80ded689464358cf7cb4dd09fdd383c9548e9</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.vdg.cs8Tools.cs8Backup</Name>
+  <DisplayName>CS8 Backup</DisplayName>
+  <Description>CS8 Backup program and synchronisation tool.</Description>
+  <Version>5.1.1398</Version>
+  <ReleaseDate>2018-07-09</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="357277" OS="Any" UncompressedSize="1303679"/>
+  <DownloadableArchives>data.z7,content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="License Agreement" file="License.txt"/>
+  </Licenses>
+  <SHA1>51dd83e27e207a8c725090dd6a3021e27bbd0c90</SHA1>
+ </PackageUpdate>
+ <PackageUpdate>
+  <Name>org.vdg.cs8Tools.cs8LogViewer</Name>
+  <DisplayName>CS8 Log File Viewer</DisplayName>
+  <Description>A log file viewer for cs8/cs9 log files.</Description>
+  <Version>5.1.1281</Version>
+  <ReleaseDate>2018-07-09</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile CompressedSize="1329707" OS="Any" UncompressedSize="2141119"/>
+  <DownloadableArchives>data.z7</DownloadableArchives>
+  <SHA1>7f5d9a92af35187fb9d0df0847d6f1a831990943</SHA1>
+ </PackageUpdate>
+</Updates>
