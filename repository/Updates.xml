@@ -6,45 +6,45 @@
   <Name>org.vdg.cs8Tools</Name>
   <DisplayName>Base Components</DisplayName>
   <Description>Mandatory files</Description>
-  <Version>5.7.1</Version>
-  <ReleaseDate>2018-01-24</ReleaseDate>
+  <Version>5.7.2</Version>
+  <ReleaseDate>2018-08-23</ReleaseDate>
   <Default>true</Default>
   <ForcedInstallation>true</ForcedInstallation>
   <Essential>true</Essential>
   <Script>installscript.qs</Script>
   <RequiresAdminRights>true</RequiresAdminRights>
-  <UpdateFile UncompressedSize="17352937" CompressedSize="5271222" OS="Any"/>
+  <UpdateFile UncompressedSize="18217705" OS="Any" CompressedSize="5628749"/>
   <DownloadableArchives>data.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License file="License.txt" name="License Agreement"/>
   </Licenses>
-  <SHA1>4ff4c3a3244247553ca0de7a738983e50681ec00</SHA1>
+  <SHA1>1ec368ae812396fbe47ff2bdff69887763ea3ba0</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>org.vdg.cs8Tools.cs8Backup</Name>
   <DisplayName>CS8 Backup</DisplayName>
   <Description>CS8 Backup program and synchronisation tool.</Description>
-  <Version>5.1.1398</Version>
-  <ReleaseDate>2018-07-09</ReleaseDate>
+  <Version>5.3.30</Version>
+  <ReleaseDate>2018-10-21</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="1303679" CompressedSize="357277" OS="Any"/>
-  <DownloadableArchives>data.z7,content.7z</DownloadableArchives>
+  <UpdateFile UncompressedSize="1218600" OS="Any" CompressedSize="295363"/>
+  <DownloadableArchives>data.z7</DownloadableArchives>
   <Licenses>
    <License file="License.txt" name="License Agreement"/>
   </Licenses>
-  <SHA1>cf0dca3a21d1d36f3f5246b2da77460b5d8d94d7</SHA1>
+  <SHA1>f960ef2f002e6f8ea38503a861d3b0f9c8cc30aa</SHA1>
  </PackageUpdate>
  <PackageUpdate>
   <Name>org.vdg.cs8Tools.cs8LogViewer</Name>
   <DisplayName>CS8 Log File Viewer</DisplayName>
   <Description>A log file viewer for cs8/cs9 log files.</Description>
-  <Version>5.1.1281</Version>
-  <ReleaseDate>2018-07-09</ReleaseDate>
+  <Version>5.3.29</Version>
+  <ReleaseDate>2018-10-21</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="2141119" CompressedSize="1329707" OS="Any"/>
+  <UpdateFile UncompressedSize="2149311" OS="Any" CompressedSize="1331105"/>
   <DownloadableArchives>data.z7</DownloadableArchives>
-  <SHA1>69f2c745ac12e59a04c20f021e594a84686f9b83</SHA1>
+  <SHA1>00d833cb03d432c5c7d7e8048bfcb3a8b37adc86</SHA1>
  </PackageUpdate>
 </Updates>
